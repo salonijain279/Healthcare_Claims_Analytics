@@ -1,0 +1,84 @@
+# Healthcare Claims, Utilization & Cost Analytics
+
+SQL · Power BI · DAX · Python (forecasting)
+
+## Business problem
+
+Leadership needs visibility into healthcare utilization, cost trends, high-cost
+populations, provider/service patterns, and data-quality issues to support
+operational and financial decision-making. This framing applies across payer
+organizations (health plans, TPAs, self-insured employers).
+
+## Data model (planned)
+
+Star-schema style, built from a claims dataset covering:
+
+- **Members** — demographics, enrollment, geography
+- **Providers** — specialty, NPI/ID, geography
+- **Claims** — header-level: claim ID, member, provider, dates, place of service,
+  claim type (inpatient / outpatient / ED / pharmacy if available), allowed amount,
+  paid amount, status
+- **Diagnoses / Procedures** — claim line-level detail (ICD/CPT-style codes)
+- **Calendar** — date dimension for MoM/YoY trending
+
+*Data source: TBD — decided with the user before data generation begins.*
+
+## Metrics
+
+**Claims & Cost** — total claims, total allowed/paid, avg cost per claim, PMPM,
+cost by service category, MoM/YoY trends
+
+**Utilization** — inpatient admissions, ED visits, outpatient visits,
+utilization per 1,000 members, high-utilization members, repeat ED users
+
+**Member Analytics** — high-cost members, chronic-condition cohorts (if
+supported by data), age/geographic segments, top cost-driving cohorts
+
+**Provider Analytics** — claim volume, avg cost per claim, utilization patterns,
+high-cost providers/service categories
+
+**Data Quality** — duplicate claims, missing member/provider fields, invalid
+dates, abnormal claim amounts, referential-integrity checks
+
+## Forecasting layer (Python)
+
+Time-series forecasts with proper train/holdout validation (not an
+overcomplicated ML model) for:
+
+- Monthly claim volume
+- Monthly allowed cost
+- Inpatient / ED utilization
+
+## Deliverables
+
+| Layer | Tool | Output |
+|---|---|---|
+| Data | Python | Synthetic/sourced claims dataset (members, providers, claims, dx/px) |
+| Data quality | SQL / Python | Validation checks + a data-quality summary |
+| Modeling | SQL | Star-schema views/tables ready for BI |
+| Measures | DAX | Documented measure library |
+| Dashboard | Power BI Desktop | Executive dashboard — built by the user following a page-by-page guide (Power BI Desktop is Windows-only; not drivable from this Mac) |
+| Forecasting | Python | Time-series models + holdout validation + charts |
+
+## Repo structure
+
+```
+data/raw/          source or generated raw tables
+data/processed/     cleaned, modeled tables (star schema)
+sql/                DDL, transformation queries, data-quality checks
+python/             data generation, cleaning, forecasting scripts
+notebooks/          exploratory analysis / forecasting notebooks
+powerbi/dax/        DAX measure library (documented .dax / .md)
+powerbi/build_guide/ page-by-page Power BI build instructions
+docs/               project notes, data dictionary
+```
+
+## Status
+
+- [x] Project scaffolded
+- [ ] Dataset decided and generated/sourced
+- [ ] Data-quality checks (SQL/Python)
+- [ ] Star-schema modeling (SQL)
+- [ ] DAX measure library
+- [ ] Power BI build guide
+- [ ] Python forecasting (claim volume, allowed cost, IP/ED utilization)
