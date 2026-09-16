@@ -1,0 +1,251 @@
+provider_id,provider_name,provider_type,specialty,state,region,npi
+P000001,"Rodriguez, Figueroa and Sanchez General Surgery",Facility,General Surgery,NM,West,1996406378
+P000002,Doyle Ltd Emergency Medicine,Facility,Emergency Medicine,VA,South,1841095289
+P000003,Dr. Yang,Individual,Primary Care,CA,West,1498972759
+P000004,Dr. Gardner,Individual,Orthopedics,TX,South,1648061058
+P000005,Dr. Garza,Individual,Primary Care,HI,West,1354088427
+P000006,Johnson and Sons Retail Pharmacy,Facility,Retail Pharmacy,CA,West,1787716372
+P000007,Dr. Hall,Individual,Neurology,WA,West,1030349564
+P000008,"Johnson, Gonzalez and Santos OB/GYN",Facility,OB/GYN,NY,Northeast,1480404538
+P000009,"Barnes, Cole and Ramirez General Surgery",Facility,General Surgery,CA,West,1961022651
+P000010,Dr. Booth,Individual,Orthopedics,GA,South,1151079598
+P000011,Dr. Blake,Individual,Neurology,IL,Midwest,1396917567
+P000012,Dr. Moore,Individual,Psychiatry,OR,West,1774414982
+P000013,Dr. Henderson,Individual,Primary Care,CA,West,1854206851
+P000014,Moore-Bernard Retail Pharmacy,Facility,Retail Pharmacy,NJ,Northeast,1581609465
+P000015,Dr. Rogers,Individual,Endocrinology,CA,West,1791274835
+P000016,Dr. Davis,Individual,Cardiology,TN,South,1472432043
+P000017,Dr. Davis,Individual,Psychiatry,CA,West,1684275917
+P000018,Munoz-Roman General Surgery,Facility,General Surgery,TX,South,1023027075
+P000019,Dr. Blair,Individual,Orthopedics,MI,Midwest,1200619113
+P000020,Dr. Herrera,Individual,Dermatology,CA,West,1396360081
+P000021,Miller-Carter Emergency Medicine,Facility,Emergency Medicine,KS,Midwest,1622028733
+P000022,"Montgomery, Hensley and Ray Retail Pharmacy",Facility,Retail Pharmacy,MD,South,1328740110
+P000023,Dr. Bush,Individual,Primary Care,TX,South,1194249720
+P000024,Stanley LLC Retail Pharmacy,Facility,Retail Pharmacy,KY,South,1091693393
+P000025,Dr. Galloway,Individual,Pulmonology,VA,South,1924514520
+P000026,Dr. Wyatt,Individual,Endocrinology,MI,Midwest,1605264936
+P000027,Dr. Delacruz,Individual,Endocrinology,TX,South,1067157848
+P000028,Ramirez-Reid Retail Pharmacy,Facility,Retail Pharmacy,CO,West,1853477355
+P000029,Dr. Diaz,Individual,Endocrinology,CA,West,1854021618
+P000030,Kelly-Santiago Radiology,Facility,Radiology,MD,South,1091355424
+P000031,Dr. Miles,Individual,Neurology,AR,South,1648870905
+P000032,Dr. Sutton,Individual,Primary Care,OR,West,1529561415
+P000033,Lynch and Sons OB/GYN,Facility,OB/GYN,CA,West,1518910454
+P000034,Dr. Ferguson,Individual,Orthopedics,NY,Northeast,1986151010
+P000035,Dr. Sanchez,Individual,Dermatology,FL,South,1263038498
+P000036,Dr. Ford,Individual,Psychiatry,TX,South,1915879373
+P000037,Mayo-Bowman General Acute Care Hospital,Facility,General Acute Care Hospital,MO,Midwest,1090053374
+P000038,Dr. Hawkins,Individual,Cardiology,CA,West,1904790222
+P000039,"Nguyen, Tate and Brown OB/GYN",Facility,OB/GYN,CA,West,1463390156
+P000040,Dr. Underwood,Individual,Primary Care,UT,West,1967957744
+P000041,Dr. Trujillo,Individual,Orthopedics,NC,South,1676742877
+P000042,Dr. Morales,Individual,Primary Care,WA,West,1171116174
+P000043,Clark PLC Emergency Medicine,Facility,Emergency Medicine,FL,South,1330626207
+P000044,Dr. Walter,Individual,Dermatology,IN,Midwest,1560355099
+P000045,Lewis-Porter Retail Pharmacy,Facility,Retail Pharmacy,SC,South,1572964792
+P000046,Dr. Wilkerson,Individual,Primary Care,GA,South,1938194539
+P000047,Dr. Day,Individual,Primary Care,UT,West,1168973642
+P000048,Dr. Thomas,Individual,Orthopedics,TX,South,1456545752
+P000049,Dr. Taylor,Individual,Orthopedics,CA,West,1978974072
+P000050,"Hoffman, Baker and Richards Physical Therapy",Facility,Physical Therapy,CA,West,1440529868
+P000051,"Ross, Robinson and Bright Retail Pharmacy",Facility,Retail Pharmacy,CA,West,1046159303
+P000052,Dr. Hicks,Individual,Pulmonology,GA,South,1826506464
+P000053,Dr. Davis,Individual,Primary Care,PA,Northeast,1828540878
+P000054,Dr. Williams,Individual,Primary Care,FL,South,1249546199
+P000055,Hernandez and Sons Radiology,Facility,Radiology,PA,Northeast,1952546800
+P000056,Dr. Conner,Individual,Cardiology,FL,South,1843120422
+P000057,Dr. Henderson,Individual,Psychiatry,NY,Northeast,1149638768
+P000058,Cruz PLC Retail Pharmacy,Facility,Retail Pharmacy,FL,South,1973303809
+P000059,Dr. Ferrell,Individual,Psychiatry,CA,West,1123035620
+P000060,Dr. Rice,Individual,Orthopedics,AZ,West,1776124029
+P000061,Dr. Maddox,Individual,Primary Care,NC,South,1227174085
+P000062,Dr. Valencia,Individual,Cardiology,TN,South,1049905866
+P000063,Dr. Smith,Individual,Orthopedics,FL,South,1228233509
+P000064,Dr. Le,Individual,Orthopedics,AZ,West,1573505733
+P000065,"Dyer, Potter and Mack General Surgery",Facility,General Surgery,AL,South,1207640719
+P000066,Rodriguez-Graham General Acute Care Hospital,Facility,General Acute Care Hospital,NY,Northeast,1801090885
+P000067,Smith-Bowen Radiology,Facility,Radiology,OR,West,1326241019
+P000068,"Baker, Mason and White Physical Therapy",Facility,Physical Therapy,CA,West,1051939266
+P000069,Harrell LLC General Acute Care Hospital,Facility,General Acute Care Hospital,PA,Northeast,1413075142
+P000070,Dr. Skinner,Individual,Primary Care,IN,Midwest,1587273855
+P000071,Dr. Romero,Individual,Pulmonology,LA,South,1754583306
+P000072,Dr. Gonzalez,Individual,Orthopedics,CA,West,1750303382
+P000073,Dr. Brooks,Individual,Nephrology,IN,Midwest,1981614854
+P000074,Ryan PLC Physical Therapy,Facility,Physical Therapy,AL,South,1237085688
+P000075,Dr. Sellers,Individual,Pulmonology,FL,South,1399873327
+P000076,"Nguyen, Smith and Hickman Retail Pharmacy",Facility,Retail Pharmacy,NJ,Northeast,1569668767
+P000077,Allen-Allen Physical Therapy,Facility,Physical Therapy,PA,Northeast,1426101858
+P000078,"Arroyo, Miller and Tucker Radiology",Facility,Radiology,KY,South,1456659347
+P000079,Spence PLC Retail Pharmacy,Facility,Retail Pharmacy,CO,West,1610021271
+P000080,Anderson Group Retail Pharmacy,Facility,Retail Pharmacy,MS,South,1151786915
+P000081,"Martin, Rose and Obrien Retail Pharmacy",Facility,Retail Pharmacy,WA,West,1039501026
+P000082,Hickman Ltd General Surgery,Facility,General Surgery,KS,Midwest,1960628888
+P000083,Dr. Vaughn,Individual,Primary Care,TX,South,1209310033
+P000084,Dr. Marquez,Individual,Psychiatry,OH,Midwest,1963229352
+P000085,Dr. Ross,Individual,Primary Care,CA,West,1323839252
+P000086,Dr. Powers,Individual,Primary Care,PA,Northeast,1426161286
+P000087,Kim-Holmes Radiology,Facility,Radiology,NY,Northeast,1182708911
+P000088,Dr. Martinez,Individual,Primary Care,PA,Northeast,1065293686
+P000089,Dr. Walker,Individual,Cardiology,VA,South,1983087333
+P000090,Smith-Spencer General Surgery,Facility,General Surgery,UT,West,1563236122
+P000091,"Robinson, Jones and Welch OB/GYN",Facility,OB/GYN,PA,Northeast,1623214176
+P000092,Dr. Perez,Individual,Dermatology,NC,South,1838562244
+P000093,Dr. Whitehead,Individual,Cardiology,NC,South,1309255683
+P000094,Dr. Heath,Individual,Primary Care,MA,Northeast,1760684560
+P000095,Palmer LLC Retail Pharmacy,Facility,Retail Pharmacy,GA,South,1126960685
+P000096,"Washington, Ryan and Cummings Retail Pharmacy",Facility,Retail Pharmacy,PA,Northeast,1066385640
+P000097,"Johnston, Sanchez and Kennedy Retail Pharmacy",Facility,Retail Pharmacy,NY,Northeast,1226623789
+P000098,Lee-Davis Retail Pharmacy,Facility,Retail Pharmacy,ID,West,1442422240
+P000099,Dr. Jordan,Individual,Primary Care,NY,Northeast,1819956639
+P000100,Jenkins-Shields Retail Pharmacy,Facility,Retail Pharmacy,NY,Northeast,1727965823
+P000101,Nunez Ltd General Surgery,Facility,General Surgery,IL,Midwest,1404642357
+P000102,Brown Ltd Radiology,Facility,Radiology,NJ,Northeast,1417369879
+P000103,Dr. Morgan,Individual,Primary Care,TN,South,1466634390
+P000104,Dr. Hensley,Individual,Primary Care,MI,Midwest,1547063169
+P000105,Dr. Wright,Individual,Orthopedics,KY,South,1586784136
+P000106,Herrera and Sons Radiology,Facility,Radiology,PA,Northeast,1187225564
+P000107,Dr. Henderson,Individual,Endocrinology,OH,Midwest,1026658609
+P000108,Ford-Baxter Retail Pharmacy,Facility,Retail Pharmacy,NV,West,1048715257
+P000109,Dr. Jones,Individual,Primary Care,AZ,West,1834400275
+P000110,"Garcia, Pearson and Fernandez Physical Therapy",Facility,Physical Therapy,IN,Midwest,1196678031
+P000111,Dr. Smith,Individual,Primary Care,CT,Northeast,1118613134
+P000112,House and Sons General Surgery,Facility,General Surgery,CA,West,1336210646
+P000113,Russell Group Physical Therapy,Facility,Physical Therapy,NY,Northeast,1665898681
+P000114,Dr. Lewis,Individual,Nephrology,NY,Northeast,1390125881
+P000115,Barrera-Martin Retail Pharmacy,Facility,Retail Pharmacy,FL,South,1166793897
+P000116,Galloway LLC General Acute Care Hospital,Facility,General Acute Care Hospital,PA,Northeast,1545720763
+P000117,Dr. House,Individual,Orthopedics,LA,South,1092526139
+P000118,Dr. Glover,Individual,Primary Care,AZ,West,1366564547
+P000119,Henderson-Bernard General Acute Care Hospital,Facility,General Acute Care Hospital,TX,South,1693009757
+P000120,Dr. Cowan,Individual,Nephrology,AZ,West,1971054899
+P000121,Dr. Peters,Individual,Primary Care,HI,West,1921678953
+P000122,Dr. Higgins,Individual,Orthopedics,MN,Midwest,1089473854
+P000123,Lee and Sons OB/GYN,Facility,OB/GYN,MD,South,1003695961
+P000124,Dr. Novak,Individual,Primary Care,WV,South,1369281814
+P000125,"Fitzgerald, Brown and Edwards OB/GYN",Facility,OB/GYN,IN,Midwest,1249939584
+P000126,Dr. Williams,Individual,Primary Care,TX,South,1001043233
+P000127,Dr. Woods,Individual,Cardiology,CA,West,1785403480
+P000128,"Moore, Yu and Miller Physical Therapy",Facility,Physical Therapy,NY,Northeast,1879889679
+P000129,Dr. Lopez,Individual,Pulmonology,MA,Northeast,1797459012
+P000130,Dr. Larson,Individual,Neurology,OH,Midwest,1283627673
+P000131,Dr. Leonard,Individual,Orthopedics,WI,Midwest,1061819576
+P000132,Dr. Young,Individual,Orthopedics,CA,West,1404401198
+P000133,Dr. Wilson,Individual,Primary Care,OR,West,1874703859
+P000134,Dr. Zamora,Individual,Primary Care,CA,West,1057399769
+P000135,Dr. Sanchez,Individual,Psychiatry,GA,South,1743896352
+P000136,Dr. Wheeler,Individual,Psychiatry,MA,Northeast,1206411513
+P000137,Dr. Harvey,Individual,Neurology,AZ,West,1194579233
+P000138,Dr. Barnes,Individual,Cardiology,CA,West,1787852946
+P000139,Dr. Silva,Individual,Psychiatry,OR,West,1681583940
+P000140,"Stewart, Green and Santiago Physical Therapy",Facility,Physical Therapy,WA,West,1832758095
+P000141,Allen-Foster Physical Therapy,Facility,Physical Therapy,CA,West,1368403327
+P000142,"Brewer, Bryant and Hickman Physical Therapy",Facility,Physical Therapy,SC,South,1760932235
+P000143,Smith PLC General Surgery,Facility,General Surgery,AZ,West,1894439328
+P000144,"Ferrell, Jones and Lewis General Acute Care Hospital",Facility,General Acute Care Hospital,AL,South,1540906763
+P000145,Anderson-Bailey General Surgery,Facility,General Surgery,WV,South,1667225929
+P000146,Dr. Jones,Individual,Primary Care,FL,South,1921653259
+P000147,Dr. Sanchez,Individual,Primary Care,CA,West,1405629426
+P000148,Dr. Mitchell,Individual,Neurology,NY,Northeast,1668823641
+P000149,Dr. Kim,Individual,Orthopedics,KY,South,1099952217
+P000150,Dr. Daniels,Individual,Orthopedics,FL,South,1507514051
+P000151,Carr-Archer Radiology,Facility,Radiology,PA,Northeast,1801647690
+P000152,"Rice, Contreras and Spencer Retail Pharmacy",Facility,Retail Pharmacy,MD,South,1229698836
+P000153,"Garcia, Humphrey and Baker Retail Pharmacy",Facility,Retail Pharmacy,NJ,Northeast,1745052004
+P000154,Newton and Sons Emergency Medicine,Facility,Emergency Medicine,SC,South,1994919522
+P000155,Campbell-Clark OB/GYN,Facility,OB/GYN,PA,Northeast,1113442790
+P000156,Dr. Cooper,Individual,Dermatology,OR,West,1265715423
+P000157,"Walters, Baker and Freeman Retail Pharmacy",Facility,Retail Pharmacy,OH,Midwest,1003741196
+P000158,Davis Group Radiology,Facility,Radiology,FL,South,1548591389
+P000159,Williams-Cook Retail Pharmacy,Facility,Retail Pharmacy,NC,South,1328382319
+P000160,Walsh LLC General Surgery,Facility,General Surgery,NY,Northeast,1429431826
+P000161,Figueroa PLC General Surgery,Facility,General Surgery,CA,West,1667360488
+P000162,"Patterson, Smith and Jones General Acute Care Hospital",Facility,General Acute Care Hospital,PA,Northeast,1888203035
+P000163,"Mckee, Gardner and Davenport Retail Pharmacy",Facility,Retail Pharmacy,NM,West,1315413330
+P000164,Dr. Aguilar,Individual,Psychiatry,CA,West,1393866308
+P000165,Dr. Hernandez,Individual,Endocrinology,NY,Northeast,1740961146
+P000166,Dr. Anderson,Individual,Primary Care,KS,Midwest,1134415503
+P000167,Diaz-Fitzpatrick Emergency Medicine,Facility,Emergency Medicine,CA,West,1963138745
+P000168,Dr. Stanton,Individual,Primary Care,NJ,Northeast,1822617220
+P000169,Nolan and Sons Radiology,Facility,Radiology,NJ,Northeast,1884039498
+P000170,Dr. Fleming,Individual,Primary Care,TX,South,1049437769
+P000171,"Garcia, Deleon and Henson General Acute Care Hospital",Facility,General Acute Care Hospital,OR,West,1380021989
+P000172,Dr. Russell,Individual,Primary Care,IN,Midwest,1312514729
+P000173,"Brady, Frost and Young General Surgery",Facility,General Surgery,UT,West,1629662913
+P000174,Dr. Martin,Individual,Primary Care,CA,West,1349204103
+P000175,Keith Inc General Surgery,Facility,General Surgery,PA,Northeast,1269722099
+P000176,Dr. White,Individual,Cardiology,IA,Midwest,1394659116
+P000177,Patton-Jenkins Emergency Medicine,Facility,Emergency Medicine,PA,Northeast,1358632862
+P000178,Dr. Santiago,Individual,Psychiatry,IL,Midwest,1880830630
+P000179,"Cochran, Adams and Cobb OB/GYN",Facility,OB/GYN,IA,Midwest,1477589542
+P000180,Reyes Inc OB/GYN,Facility,OB/GYN,FL,South,1666587889
+P000181,Dr. Garrison,Individual,Psychiatry,CA,West,1510319067
+P000182,Gonzalez Group Emergency Medicine,Facility,Emergency Medicine,AL,South,1777558402
+P000183,Dr. Bailey,Individual,Dermatology,WV,South,1536315070
+P000184,Dr. Hoover,Individual,Psychiatry,CA,West,1121848736
+P000185,Dr. Savage,Individual,Cardiology,WV,South,1052203051
+P000186,Johnson and Sons Retail Pharmacy,Facility,Retail Pharmacy,NJ,Northeast,1312185646
+P000187,Murphy-Lin Retail Pharmacy,Facility,Retail Pharmacy,MI,Midwest,1726346491
+P000188,Dr. Rasmussen,Individual,Primary Care,NJ,Northeast,1941897235
+P000189,Dr. Ramirez,Individual,Primary Care,TX,South,1931188016
+P000190,"Hicks, Frazier and Anthony Radiology",Facility,Radiology,GA,South,1547857780
+P000191,Crosby-Wilson Radiology,Facility,Radiology,IL,Midwest,1195190712
+P000192,White-Estes Retail Pharmacy,Facility,Retail Pharmacy,WV,South,1248523535
+P000193,Johnson-Carlson Retail Pharmacy,Facility,Retail Pharmacy,GA,South,1515965595
+P000194,Dr. Reed,Individual,Orthopedics,TX,South,1630708899
+P000195,Dr. Hartman,Individual,Psychiatry,PA,Northeast,1359300273
+P000196,Dr. Graham,Individual,Cardiology,PA,Northeast,1042734307
+P000197,"Wilson, Lam and Lee Retail Pharmacy",Facility,Retail Pharmacy,IN,Midwest,1155032720
+P000198,Dr. Williams,Individual,Cardiology,IL,Midwest,1441444812
+P000199,Smith-Frost Physical Therapy,Facility,Physical Therapy,TX,South,1691177005
+P000200,Dr. Ryan,Individual,Primary Care,KS,Midwest,1715709298
+P000201,"Bentley, Mclaughlin and Gonzalez Radiology",Facility,Radiology,WA,West,1722598337
+P000202,Dr. Reynolds,Individual,Primary Care,OK,South,1221568250
+P000203,Dr. Rush,Individual,Primary Care,CA,West,1543156000
+P000204,Hanson-Alvarado Emergency Medicine,Facility,Emergency Medicine,GA,South,1646035632
+P000205,Cortez LLC General Surgery,Facility,General Surgery,WI,Midwest,1614135000
+P000206,"Parker, Ortiz and Powell Retail Pharmacy",Facility,Retail Pharmacy,KY,South,1379368908
+P000207,Dr. Phillips,Individual,Primary Care,CA,West,1574890494
+P000208,Dr. Martinez,Individual,Cardiology,CA,West,1492728837
+P000209,Ortega-Gray Radiology,Facility,Radiology,MI,Midwest,1700791554
+P000210,Dr. Adkins,Individual,Nephrology,CO,West,1836512420
+P000211,Gilbert LLC Emergency Medicine,Facility,Emergency Medicine,IL,Midwest,1861330509
+P000212,Dr. Sullivan,Individual,Primary Care,FL,South,1106222252
+P000213,Dr. Bass,Individual,Neurology,FL,South,1737448816
+P000214,Mitchell-Jordan Emergency Medicine,Facility,Emergency Medicine,CA,West,1080197726
+P000215,Dr. Carpenter,Individual,Primary Care,TN,South,1087220897
+P000216,Dr. Pena,Individual,Psychiatry,LA,South,1248151345
+P000217,Ramos-Lowe Retail Pharmacy,Facility,Retail Pharmacy,NJ,Northeast,1261726596
+P000218,Dr. Dixon,Individual,Primary Care,MN,Midwest,1386357648
+P000219,Dr. Leon,Individual,Primary Care,CA,West,1022064334
+P000220,"Jackson, Miller and Robertson Emergency Medicine",Facility,Emergency Medicine,AZ,West,1236415050
+P000221,Dr. Schultz,Individual,Primary Care,TX,South,1062468859
+P000222,Davis-Crane Retail Pharmacy,Facility,Retail Pharmacy,WA,West,1586882897
+P000223,Chambers and Sons General Surgery,Facility,General Surgery,OH,Midwest,1662106558
+P000224,Hernandez Inc Radiology,Facility,Radiology,NJ,Northeast,1862903776
+P000225,Riggs PLC Emergency Medicine,Facility,Emergency Medicine,IL,Midwest,1524358390
+P000226,Dr. Atkinson,Individual,Pulmonology,IN,Midwest,1199594780
+P000227,Dr. Jones,Individual,Primary Care,AR,South,1081251088
+P000228,Dr. Perry,Individual,Cardiology,GA,South,1987982369
+P000229,Dr. Soto,Individual,Neurology,PA,Northeast,1898209917
+P000230,Higgins Group Physical Therapy,Facility,Physical Therapy,FL,South,1325830514
+P000231,Dr. Snyder,Individual,Pulmonology,GA,South,1364067663
+P000232,Dr. Sanchez,Individual,Primary Care,TX,South,1605052423
+P000233,Dr. Douglas,Individual,Primary Care,IN,Midwest,1694329624
+P000234,Stafford Inc Retail Pharmacy,Facility,Retail Pharmacy,GA,South,1719655004
+P000235,Robinson-Brock Retail Pharmacy,Facility,Retail Pharmacy,WA,West,1961424434
+P000236,Dr. Dominguez,Individual,Primary Care,TX,South,1122794587
+P000237,Dr. Marshall,Individual,Orthopedics,CA,West,1209230661
+P000238,Dr. Grant,Individual,Primary Care,GA,South,1886196569
+P000239,Bryant Group Retail Pharmacy,Facility,Retail Pharmacy,TX,South,1344024793
+P000240,"Schmidt, Hansen and Stewart Radiology",Facility,Radiology,CA,West,1212216056
+P000241,Dr. Fischer,Individual,Psychiatry,IN,Midwest,1050066487
+P000242,Salazar-Ball Retail Pharmacy,Facility,Retail Pharmacy,AR,South,1262327868
+P000243,Dr. Wagner,Individual,Primary Care,OK,South,1362997767
+P000244,"Griffin, Moore and Hensley Emergency Medicine",Facility,Emergency Medicine,TX,South,1899148494
+P000245,Dr. Cole,Individual,Pulmonology,AR,South,1507900377
+P000246,Larsen LLC Emergency Medicine,Facility,Emergency Medicine,MI,Midwest,1947109249
+P000247,"Washington, Allen and Gonzales Emergency Medicine",Facility,Emergency Medicine,CA,West,1010466615
+P000248,Dr. Reeves,Individual,Primary Care,IN,Midwest,1405619606
+P000249,Dr. Young,Individual,Pulmonology,MI,Midwest,1460300268
+P000250,Flores-Fernandez Retail Pharmacy,Facility,Retail Pharmacy,PA,Northeast,1632063858
