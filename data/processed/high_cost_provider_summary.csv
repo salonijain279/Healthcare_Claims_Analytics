@@ -1,0 +1,251 @@
+provider_id,claim_count,avg_allowed,provider_name,specialty,vs_specialty_ratio
+P000069,41,67099.53463414634,Harrell LLC General Acute Care Hospital,General Acute Care Hospital,2.14
+P000123,793,2971.2729255989907,Lee and Sons OB/GYN,OB/GYN,1.92
+P000018,268,6438.017574626865,Munoz-Roman General Surgery,General Surgery,1.51
+P000214,168,2600.7589880952382,Mitchell-Jordan Emergency Medicine,Emergency Medicine,1.29
+P000233,586,233.65687713310578,Dr. Douglas,Primary Care,1.26
+P000001,266,5344.7255263157895,"Rodriguez, Figueroa and Sanchez General Surgery",General Surgery,1.25
+P000244,185,2515.8144864864867,"Griffin, Moore and Hensley Emergency Medicine",Emergency Medicine,1.25
+P000081,2099,70.4187422582182,"Martin, Rose and Obrien Retail Pharmacy",Retail Pharmacy,1.24
+P000245,773,666.6999870633895,Dr. Cole,Pulmonology,1.23
+P000174,520,219.33653846153845,Dr. Martin,Primary Care,1.18
+P000056,811,610.3037977805179,Dr. Conner,Cardiology,1.17
+P000060,789,587.6876425855513,Dr. Rice,Orthopedics,1.17
+P000205,288,4973.841284722223,Cortez LLC General Surgery,General Surgery,1.17
+P000044,565,221.32534513274337,Dr. Walter,Dermatology,1.16
+P000057,569,217.92857644991213,Dr. Henderson,Psychiatry,1.16
+P000227,544,214.02994485294116,Dr. Jones,Primary Care,1.15
+P000084,562,214.27259786476867,Dr. Marquez,Psychiatry,1.14
+P000199,228,1412.2301754385965,Smith-Frost Physical Therapy,Physical Therapy,1.14
+P000183,548,217.41981751824818,Dr. Bailey,Dermatology,1.14
+P000226,797,607.6536511919699,Dr. Atkinson,Pulmonology,1.13
+P000208,798,584.4635087719298,Dr. Martinez,Cardiology,1.12
+P000065,271,4717.8725092250925,"Dyer, Potter and Mack General Surgery",General Surgery,1.11
+P000104,565,206.1515575221239,Dr. Hensley,Primary Care,1.11
+P000117,772,556.3100777202072,Dr. House,Orthopedics,1.11
+P000130,789,573.7093029150824,Dr. Larson,Neurology,1.11
+P000080,2090,63.02123923444975,Anderson Group Retail Pharmacy,Retail Pharmacy,1.11
+P000155,819,1713.00778998779,Campbell-Clark OB/GYN,OB/GYN,1.1
+P000006,2067,62.31786647314949,Johnson and Sons Retail Pharmacy,Retail Pharmacy,1.1
+P000101,288,4695.021041666667,Nunez Ltd General Surgery,General Surgery,1.1
+P000137,778,568.6514524421594,Dr. Harvey,Neurology,1.1
+P000165,539,199.32536178107605,Dr. Hernandez,Endocrinology,1.09
+P000014,2088,62.11091475095785,Moore-Bernard Retail Pharmacy,Retail Pharmacy,1.09
+P000015,535,197.57917757009346,Dr. Rogers,Endocrinology,1.08
+P000198,786,559.5754834605598,Dr. Williams,Cardiology,1.08
+P000017,582,203.08070446735397,Dr. Davis,Psychiatry,1.08
+P000134,573,199.81253054101222,Dr. Zamora,Primary Care,1.08
+P000236,574,200.951968641115,Dr. Dominguez,Primary Care,1.08
+P000023,525,199.9408,Dr. Bush,Primary Care,1.08
+P000115,2072,61.31203185328185,Barrera-Martin Retail Pharmacy,Retail Pharmacy,1.08
+P000111,513,197.78152046783626,Dr. Smith,Primary Care,1.07
+P000221,548,198.45496350364965,Dr. Schultz,Primary Care,1.07
+P000024,2072,60.99627895752896,Stanley LLC Retail Pharmacy,Retail Pharmacy,1.07
+P000073,760,517.7136710526316,Dr. Brooks,Nephrology,1.06
+P000248,549,196.60214936247723,Dr. Reeves,Primary Care,1.06
+P000136,532,199.3377067669173,Dr. Wheeler,Psychiatry,1.06
+P000189,538,196.157156133829,Dr. Ramirez,Primary Care,1.06
+P000063,794,531.2628589420655,Dr. Smith,Orthopedics,1.06
+P000181,583,197.48404802744426,Dr. Garrison,Psychiatry,1.05
+P000207,536,195.6252985074627,Dr. Phillips,Primary Care,1.05
+P000190,263,1295.8774904942966,"Hicks, Frazier and Anthony Radiology",Radiology,1.05
+P000090,270,4488.812888888889,Smith-Spencer General Surgery,General Surgery,1.05
+P000096,2042,59.84803134182174,"Washington, Ryan and Cummings Retail Pharmacy",Retail Pharmacy,1.05
+P000194,800,524.8052625,Dr. Reed,Orthopedics,1.04
+P000019,855,521.527134502924,Dr. Blair,Orthopedics,1.04
+P000217,2125,58.837105882352944,Ramos-Lowe Retail Pharmacy,Retail Pharmacy,1.04
+P000242,2135,59.30916159250585,Salazar-Ball Retail Pharmacy,Retail Pharmacy,1.04
+P000216,544,193.49501838235292,Dr. Pena,Psychiatry,1.03
+P000086,555,190.606990990991,Dr. Powers,Primary Care,1.03
+P000200,523,191.151931166348,Dr. Ryan,Primary Care,1.03
+P000005,548,192.0320802919708,Dr. Garza,Primary Care,1.03
+P000139,579,192.6776511226252,Dr. Silva,Psychiatry,1.03
+P000074,233,1273.5484120171675,Ryan PLC Physical Therapy,Physical Therapy,1.03
+P000078,248,1276.838387096774,"Arroyo, Miller and Tucker Radiology",Radiology,1.03
+P000077,227,1266.5111453744494,Allen-Allen Physical Therapy,Physical Therapy,1.02
+P000013,510,189.43019607843135,Dr. Henderson,Primary Care,1.02
+P000087,241,1253.247427385892,Kim-Holmes Radiology,Radiology,1.02
+P000088,557,189.15421903052064,Dr. Martinez,Primary Care,1.02
+P000191,225,1253.4135555555556,Crosby-Wilson Radiology,Radiology,1.02
+P000237,780,513.810141025641,Dr. Marshall,Orthopedics,1.02
+P000124,536,189.94621268656715,Dr. Novak,Primary Care,1.02
+P000185,763,532.460498034076,Dr. Savage,Cardiology,1.02
+P000054,546,188.551336996337,Dr. Williams,Primary Care,1.02
+P000234,2067,57.76062893081761,Stafford Inc Retail Pharmacy,Retail Pharmacy,1.02
+P000158,274,1261.12700729927,Davis Group Radiology,Radiology,1.02
+P000048,775,514.9187870967742,Dr. Thomas,Orthopedics,1.02
+P000133,579,189.2285664939551,Dr. Wilson,Primary Care,1.02
+P000041,825,511.4088,Dr. Trujillo,Orthopedics,1.02
+P000067,224,1257.0049999999999,Smith-Bowen Radiology,Radiology,1.02
+P000151,220,1256.6687727272727,Carr-Archer Radiology,Radiology,1.02
+P000150,810,507.28133333333335,Dr. Daniels,Orthopedics,1.01
+P000229,805,523.3115900621118,Dr. Soto,Neurology,1.01
+P000100,2010,57.641940298507464,Jenkins-Shields Retail Pharmacy,Retail Pharmacy,1.01
+P000120,809,491.9594684796045,Dr. Cowan,Nephrology,1.01
+P000131,791,510.5856384323641,Dr. Leonard,Orthopedics,1.01
+P000051,1994,57.12926780341023,"Ross, Robinson and Bright Retail Pharmacy",Retail Pharmacy,1.01
+P000004,818,509.4372249388753,Dr. Gardner,Orthopedics,1.01
+P000145,245,4268.263020408163,Anderson-Bailey General Surgery,General Surgery,1.0
+P000179,749,1550.6550600801068,"Cochran, Adams and Cobb OB/GYN",OB/GYN,1.0
+P000152,2101,56.58706806282722,"Rice, Contreras and Spencer Retail Pharmacy",Retail Pharmacy,1.0
+P000157,2039,56.80293281020108,"Walters, Baker and Freeman Retail Pharmacy",Retail Pharmacy,1.0
+P000142,270,1235.7792222222222,"Brewer, Bryant and Hickman Physical Therapy",Physical Therapy,1.0
+P000204,162,2018.418148148148,Hanson-Alvarado Emergency Medicine,Emergency Medicine,1.0
+P000210,797,488.03082810539524,Dr. Adkins,Nephrology,1.0
+P000030,232,1237.8691810344828,Kelly-Santiago Radiology,Radiology,1.0
+P000089,746,521.6628016085791,Dr. Walker,Cardiology,1.0
+P000039,838,1557.0917422434366,"Nguyen, Tate and Brown OB/GYN",OB/GYN,1.0
+P000224,236,1229.7694915254235,Hernandez Inc Radiology,Radiology,1.0
+P000071,800,542.1967125,Dr. Romero,Pulmonology,1.0
+P000219,538,186.02767657992564,Dr. Leon,Primary Care,1.0
+P000011,758,516.5421108179419,Dr. Blake,Neurology,1.0
+P000209,239,1234.3630962343098,Ortega-Gray Radiology,Radiology,1.0
+P000222,2022,56.70772007912957,Davis-Crane Retail Pharmacy,Retail Pharmacy,1.0
+P000220,157,1987.264522292994,"Jackson, Miller and Robertson Emergency Medicine",Emergency Medicine,0.99
+P000188,571,182.91234676007005,Dr. Rasmussen,Primary Care,0.99
+P000061,516,183.55001937984497,Dr. Maddox,Primary Care,0.99
+P000159,2149,56.36804560260586,Williams-Cook Retail Pharmacy,Retail Pharmacy,0.99
+P000127,798,515.9770050125313,Dr. Woods,Cardiology,0.99
+P000128,248,1221.4399596774192,"Moore, Yu and Miller Physical Therapy",Physical Therapy,0.99
+P000113,247,1231.718785425101,Russell Group Physical Therapy,Physical Therapy,0.99
+P000170,576,182.98475694444446,Dr. Fleming,Primary Care,0.99
+P000045,2034,56.524572271386425,Lewis-Porter Retail Pharmacy,Retail Pharmacy,0.99
+P000167,169,1995.0004733727812,Diaz-Fitzpatrick Emergency Medicine,Emergency Medicine,0.99
+P000249,798,536.7789348370927,Dr. Young,Pulmonology,0.99
+P000105,774,495.61582687338506,Dr. Wright,Orthopedics,0.99
+P000079,2138,56.21549579045837,Spence PLC Retail Pharmacy,Retail Pharmacy,0.99
+P000098,2118,56.14098677998111,Lee-Davis Retail Pharmacy,Retail Pharmacy,0.99
+P000154,158,1983.7478481012656,Newton and Sons Emergency Medicine,Emergency Medicine,0.99
+P000230,256,1224.607890625,Higgins Group Physical Therapy,Physical Therapy,0.99
+P000163,2054,56.46413339824732,"Mckee, Gardner and Davenport Retail Pharmacy",Retail Pharmacy,0.99
+P000106,267,1225.2177153558052,Herrera and Sons Radiology,Radiology,0.99
+P000052,791,530.5246144121365,Dr. Hicks,Pulmonology,0.98
+P000140,242,1212.3761157024794,"Stewart, Green and Santiago Physical Therapy",Physical Therapy,0.98
+P000042,557,182.4028725314183,Dr. Morales,Primary Care,0.98
+P000097,2080,55.9175625,"Johnston, Sanchez and Kennedy Retail Pharmacy",Retail Pharmacy,0.98
+P000201,215,1213.925581395349,"Bentley, Mclaughlin and Gonzalez Radiology",Radiology,0.98
+P000085,596,182.48058724832214,Dr. Ross,Primary Care,0.98
+P000169,254,1213.2696850393702,Nolan and Sons Radiology,Radiology,0.98
+P000246,166,1963.8849397590363,Larsen LLC Emergency Medicine,Emergency Medicine,0.98
+P000112,270,4196.119074074074,House and Sons General Surgery,General Surgery,0.98
+P000075,776,528.5053350515464,Dr. Sellers,Pulmonology,0.98
+P000203,532,181.21593984962408,Dr. Rush,Primary Care,0.98
+P000239,2033,55.79997540580423,Bryant Group Retail Pharmacy,Retail Pharmacy,0.98
+P000197,2077,55.873192103996146,"Wilson, Lam and Lee Retail Pharmacy",Retail Pharmacy,0.98
+P000068,224,1218.7452678571428,"Baker, Mason and White Physical Therapy",Physical Therapy,0.98
+P000016,793,512.0779823455233,Dr. Davis,Cardiology,0.98
+P000225,174,1982.370172413793,Riggs PLC Emergency Medicine,Emergency Medicine,0.98
+P000153,2216,55.82856046931408,"Garcia, Humphrey and Baker Retail Pharmacy",Retail Pharmacy,0.98
+P000034,825,495.2964,Dr. Ferguson,Orthopedics,0.98
+P000026,574,178.2526480836237,Dr. Wyatt,Endocrinology,0.97
+P000038,823,505.3408262454435,Dr. Hawkins,Cardiology,0.97
+P000166,563,180.00072824156305,Dr. Anderson,Primary Care,0.97
+P000010,762,485.852125984252,Dr. Booth,Orthopedics,0.97
+P000141,228,1195.5341666666666,Allen-Foster Physical Therapy,Physical Therapy,0.97
+P000050,223,1198.7571748878922,"Hoffman, Baker and Richards Physical Therapy",Physical Therapy,0.97
+P000202,569,179.4714059753954,Dr. Reynolds,Primary Care,0.97
+P000108,2117,55.264922059518184,Ford-Baxter Retail Pharmacy,Retail Pharmacy,0.97
+P000196,776,503.57750000000004,Dr. Graham,Cardiology,0.97
+P000212,551,180.50250453720508,Dr. Sullivan,Primary Care,0.97
+P000240,280,1202.401892857143,"Schmidt, Hansen and Stewart Radiology",Radiology,0.97
+P000049,798,485.6489974937344,Dr. Taylor,Orthopedics,0.97
+P000046,570,179.68636842105263,Dr. Wilkerson,Primary Care,0.97
+P000175,285,4138.8139298245615,Keith Inc General Surgery,General Surgery,0.97
+P000055,231,1203.2591341991342,Hernandez and Sons Radiology,Radiology,0.97
+P000172,518,178.54797297297299,Dr. Russell,Primary Care,0.96
+P000223,256,4094.430859375,Chambers and Sons General Surgery,General Surgery,0.96
+P000193,2130,54.34267605633803,Johnson-Carlson Retail Pharmacy,Retail Pharmacy,0.96
+P000176,816,497.52762254901955,Dr. White,Cardiology,0.96
+P000232,552,178.79003623188407,Dr. Sanchez,Primary Care,0.96
+P000247,155,1935.358,"Washington, Allen and Gonzales Emergency Medicine",Emergency Medicine,0.96
+P000250,2046,54.765,Flores-Fernandez Retail Pharmacy,Retail Pharmacy,0.96
+P000022,1987,54.4472571716155,"Montgomery, Hensley and Ray Retail Pharmacy",Retail Pharmacy,0.96
+P000122,775,483.6598838709677,Dr. Higgins,Orthopedics,0.96
+P000053,570,178.72291228070176,Dr. Davis,Primary Care,0.96
+P000002,184,1927.5551086956523,Doyle Ltd Emergency Medicine,Emergency Medicine,0.96
+P000031,759,497.1529117259552,Dr. Miles,Neurology,0.96
+P000147,557,178.76703770197489,Dr. Sanchez,Primary Care,0.96
+P000109,544,178.5114705882353,Dr. Jones,Primary Care,0.96
+P000007,800,495.7548625,Dr. Hall,Neurology,0.96
+P000107,548,175.65748175182483,Dr. Henderson,Endocrinology,0.96
+P000103,547,178.4680621572212,Dr. Morgan,Primary Care,0.96
+P000095,2082,54.416613832853024,Palmer LLC Retail Pharmacy,Retail Pharmacy,0.96
+P000138,796,496.81046482412063,Dr. Barnes,Cardiology,0.96
+P000028,1982,53.97683652875883,Ramirez-Reid Retail Pharmacy,Retail Pharmacy,0.95
+P000121,558,176.97213261648744,Dr. Peters,Primary Care,0.95
+P000110,212,1172.4819339622643,"Garcia, Pearson and Fernandez Physical Therapy",Physical Therapy,0.95
+P000206,2057,54.023412736995624,"Parker, Ortiz and Powell Retail Pharmacy",Retail Pharmacy,0.95
+P000162,23,29933.874347826088,"Patterson, Smith and Jones General Acute Care Hospital",General Acute Care Hospital,0.95
+P000187,2123,54.11803579839849,Murphy-Lin Retail Pharmacy,Retail Pharmacy,0.95
+P000029,559,174.57928443649377,Dr. Diaz,Endocrinology,0.95
+P000211,184,1921.856086956522,Gilbert LLC Emergency Medicine,Emergency Medicine,0.95
+P000070,571,176.48154115586692,Dr. Skinner,Primary Care,0.95
+P000215,556,177.03446043165468,Dr. Carpenter,Primary Care,0.95
+P000032,555,176.17387387387387,Dr. Sutton,Primary Care,0.95
+P000047,518,176.66752895752896,Dr. Day,Primary Care,0.95
+P000083,524,176.25755725190842,Dr. Vaughn,Primary Care,0.95
+P000027,530,174.95688679245282,Dr. Delacruz,Endocrinology,0.95
+P000040,587,176.71667802385008,Dr. Underwood,Primary Care,0.95
+P000009,267,4060.3739700374535,"Barnes, Cole and Ramirez General Surgery",General Surgery,0.95
+P000168,555,176.3638198198198,Dr. Stanton,Primary Care,0.95
+P000178,528,178.40689393939394,Dr. Santiago,Psychiatry,0.95
+P000012,529,178.32776937618146,Dr. Moore,Psychiatry,0.95
+P000241,554,178.06485559566786,Dr. Fischer,Psychiatry,0.95
+P000003,553,175.57083182640145,Dr. Yang,Primary Care,0.95
+P000164,544,177.26604779411764,Dr. Aguilar,Psychiatry,0.94
+P000099,515,175.24001941747574,Dr. Jordan,Primary Care,0.94
+P000146,551,175.01744101633395,Dr. Jones,Primary Care,0.94
+P000184,538,177.1471375464684,Dr. Hoover,Psychiatry,0.94
+P000135,533,175.8390243902439,Dr. Sanchez,Psychiatry,0.94
+P000094,545,175.142623853211,Dr. Heath,Primary Care,0.94
+P000177,168,1901.8866071428572,Patton-Jenkins Emergency Medicine,Emergency Medicine,0.94
+P000149,810,470.87061728395065,Dr. Kim,Orthopedics,0.94
+P000119,25,29494.944,Henderson-Bernard General Acute Care Hospital,General Acute Care Hospital,0.94
+P000243,532,174.2636090225564,Dr. Wagner,Primary Care,0.94
+P000156,510,178.74249019607842,Dr. Cooper,Dermatology,0.94
+P000062,794,490.75817380352646,Dr. Valencia,Cardiology,0.94
+P000058,2077,52.580009629272986,Cruz PLC Retail Pharmacy,Retail Pharmacy,0.93
+P000059,550,175.13578181818184,Dr. Ferrell,Psychiatry,0.93
+P000213,786,478.65642493638677,Dr. Bass,Neurology,0.93
+P000186,2061,52.7767248908297,Johnson and Sons Retail Pharmacy,Retail Pharmacy,0.93
+P000021,152,1865.5429605263155,Miller-Carter Emergency Medicine,Emergency Medicine,0.93
+P000195,533,174.73236397748593,Dr. Hartman,Psychiatry,0.93
+P000114,806,454.16991315136477,Dr. Lewis,Nephrology,0.93
+P000036,529,173.85232514177696,Dr. Ford,Psychiatry,0.93
+P000118,480,173.17025,Dr. Glover,Primary Care,0.93
+P000020,531,177.4277966101695,Dr. Herrera,Dermatology,0.93
+P000076,2102,52.16539961941008,"Nguyen, Smith and Hickman Retail Pharmacy",Retail Pharmacy,0.92
+P000235,2056,52.00734922178988,Robinson-Brock Retail Pharmacy,Retail Pharmacy,0.92
+P000092,582,174.78539518900345,Dr. Perez,Dermatology,0.92
+P000102,253,1136.531304347826,Brown Ltd Radiology,Radiology,0.92
+P000148,783,476.5509833971903,Dr. Mitchell,Neurology,0.92
+P000132,746,461.07550938337806,Dr. Young,Orthopedics,0.92
+P000035,563,175.7406571936057,Dr. Sanchez,Dermatology,0.92
+P000218,536,170.62285447761195,Dr. Dixon,Primary Care,0.92
+P000238,548,171.0161678832117,Dr. Grant,Primary Care,0.92
+P000228,787,480.3213722998729,Dr. Perry,Cardiology,0.92
+P000126,511,168.7682974559687,Dr. Williams,Primary Care,0.91
+P000093,800,470.70125,Dr. Whitehead,Cardiology,0.91
+P000192,2088,51.89420019157088,White-Estes Retail Pharmacy,Retail Pharmacy,0.91
+P000182,174,1824.252816091954,Gonzalez Group Emergency Medicine,Emergency Medicine,0.91
+P000129,806,486.92251861042183,Dr. Lopez,Pulmonology,0.9
+P000231,769,487.0122756827048,Dr. Snyder,Pulmonology,0.9
+P000072,758,453.96298153034303,Dr. Gonzalez,Orthopedics,0.9
+P000043,180,1775.0488888888888,Clark PLC Emergency Medicine,Emergency Medicine,0.88
+P000025,764,473.7776047120419,Dr. Galloway,Pulmonology,0.88
+P000064,749,440.2870627503338,Dr. Le,Orthopedics,0.88
+P000173,290,3637.3873448275863,"Brady, Frost and Young General Surgery",General Surgery,0.85
+P000125,799,1305.6499624530663,"Fitzgerald, Brown and Edwards OB/GYN",OB/GYN,0.84
+P000171,29,26153.51172413793,"Garcia, Deleon and Henson General Acute Care Hospital",General Acute Care Hospital,0.83
+P000082,304,3538.667467105263,Hickman Ltd General Surgery,General Surgery,0.83
+P000008,850,1278.8816588235293,"Johnson, Gonzalez and Santos OB/GYN",OB/GYN,0.82
+P000160,282,3505.8326595744684,Walsh LLC General Surgery,General Surgery,0.82
+P000033,821,1269.562911084044,Lynch and Sons OB/GYN,OB/GYN,0.82
+P000144,34,25599.869705882356,"Ferrell, Jones and Lewis General Acute Care Hospital",General Acute Care Hospital,0.82
+P000180,810,1258.9912098765433,Reyes Inc OB/GYN,OB/GYN,0.81
+P000037,26,24758.431538461537,Mayo-Bowman General Acute Care Hospital,General Acute Care Hospital,0.79
+P000161,265,3313.1064528301886,Figueroa PLC General Surgery,General Surgery,0.78
+P000116,32,24029.39375,Galloway LLC General Acute Care Hospital,General Acute Care Hospital,0.77
+P000066,22,23888.481818181815,Rodriguez-Graham General Acute Care Hospital,General Acute Care Hospital,0.76
+P000091,781,1047.081113956466,"Robinson, Jones and Welch OB/GYN",OB/GYN,0.68
+P000143,262,2863.7093893129772,Smith PLC General Surgery,General Surgery,0.67

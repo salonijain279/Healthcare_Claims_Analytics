@@ -1,0 +1,8 @@
+check_name,issue_count
+duplicate_claim_ids,556
+missing_diagnosis_non_pharmacy,1103
+orphan_member_id,560
+negative_paid_amount,186
+null_allowed_amount_after_cast,0
+missing_gender,50
+missing_state,40
